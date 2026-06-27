@@ -82,6 +82,19 @@ python app.py --upstash true
 
 ---
 
+## 📌 Example Response
+
+```json
+{
+  "AbshodeHazer": "31,450,000",
+  "Gold18": "7,120,000",
+  "herat_usd": "89,350",
+  "ons": "3,345.25"
+}
+```
+
+
+
 # 📜 مجوز
 
 این پروژه تحت مجوز **MIT License** منتشر شده است.
